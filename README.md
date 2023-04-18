@@ -2,9 +2,10 @@
 This is a sample web app built with Streamlit, a popular open-source Python framework for creating interactive web applications.
 
 ## Overview
----------------
+
 This web app allows users to predicts in real time whether a persons income is greater than $ 50,000 based on features censused.  
-# Installation
+## Installation
+-
 
 * Clone this repository to your local machine:
 ```bash
