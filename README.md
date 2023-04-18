@@ -21,9 +21,11 @@ streamlit run App.py
 * The app should open in your default browser. If it doesn't, you can access it by navigating to http://localhost:8501 in your browser.
 ## License
 
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
+
 - ![Twitter URL](https://img.shields.io/twitter/url?label=%40dev_kadey&style=social&url=https%3A%2F%2Ftwitter.com%2Fdev_kadey)
 
 - [@Richard Kwaku Kadey](https://www.linkedin.com/in/richard-kwaku-kadey-096710114/)
