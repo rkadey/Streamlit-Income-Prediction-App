@@ -23,7 +23,9 @@ streamlit run App.py
 ## Screenshots
 
 
-![image](https://github.com/rkadey/streamlit-ml-app/blob/main/screenshots/pexels-andrea-piacquadio-3823487.png?raw=true)
+![image](https://github.com/rkadey/streamlit-ml-app/blob/main/screenshots/Streamlit%20snapshot1.png)
+====================================================================================================
+![image](https://github.com/rkadey/streamlit-ml-app/blob/main/screenshots/Streamlit%20snapshot2.png)
 ## License
 
 
