@@ -1,6 +1,8 @@
 # Streamlit-Income-Prediction-App
 This is a sample web app built with Streamlit, a popular open-source Python framework for creating interactive web applications.
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas?style=for-the-badge) ![PyPI - Status](https://img.shields.io/pypi/status/pandas?style=for-the-badge) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+
 ## Overview
 
 This web app allows users to predicts in real time whether a persons income is greater than $ 50,000 based on features censused.  
