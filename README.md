@@ -19,6 +19,11 @@ cd treamlit-Income-Prediction-App
 streamlit run App.py
 ```
 * The app should open in your default browser. If it doesn't, you can access it by navigating to http://localhost:8501 in your browser.
+
+## Screenshots
+
+
+![image](https://github.com/rkadey/streamlit-ml-app/blob/main/screenshots/pexels-andrea-piacquadio-3823487.png?raw=true)
 ## License
 
 
